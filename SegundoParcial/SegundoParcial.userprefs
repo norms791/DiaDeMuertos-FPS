@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/scriptdeAudio.js">
+    <Files>
+      <File FileName="Assets/Scripts/Autodestruir.js" Line="3" Column="36" />
+      <File FileName="Assets/Scripts/Disparo.js" Line="2" Column="6" />
+      <File FileName="Assets/Scripts/ScriptdeTrampa.js" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/GeneralVars.js" Line="4" Column="7" />
+      <File FileName="Assets/Scripts/ScriptdeMotor.js" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/ScriptdeScore.js" Line="6" Column="7" />
+      <File FileName="Assets/Scripts/scriptdeAudio.js" Line="11" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
