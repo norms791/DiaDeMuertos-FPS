@@ -1,11 +1,14 @@
 ﻿//ScriptdeScoreTXT.js
 function Update () {
 if (GeneralVars.nSalud > 0){
-      this.guiText.text = "Vida " + GeneralVars.nSalud.ToString() +"%";
+		//Actualiza la vida
+		if(this.name == "Score")
+	      this.guiText.text = "Vida " + GeneralVars.nSalud.ToString() +"%"; 
+      	else if(this.name == "Puntos")
+      	  this.guiText.text = "Puntos " + GeneralVars.puntos.ToString() ; 
       }
       
     else{
-    this.guiText.text = "Estas muerto ";
     Application.LoadLevel("GameOver");
       }      
 } 

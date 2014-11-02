@@ -50,7 +50,10 @@
      <Compile Include="Assets\Scripts\Autodestruir.js" />
      <Compile Include="Assets\Scripts\Disparo.js" />
      <Compile Include="Assets\Scripts\GeneralVars.js" />
+     <Compile Include="Assets\Scripts\ScriptMenu.js" />
+     <Compile Include="Assets\Scripts\ScriptdeEnemigos.js" />
      <Compile Include="Assets\Scripts\ScriptdeMotor.js" />
+     <Compile Include="Assets\Scripts\ScriptdeRecoleccion.js" />
      <Compile Include="Assets\Scripts\ScriptdeScore.js" />
      <Compile Include="Assets\Scripts\ScriptdeTrampa.js" />
      <Compile Include="Assets\Scripts\scriptdeAudio.js" />

@@ -1,6 +1,10 @@
 ﻿//Autodestruir.js
-var nTime : float = 10;
+var nTime : float = 30;
 public var Aceleracion : float = 1;
-function Start () {
-    Destroy(this.gameObject, nTime);
+
+
+function OnTriggerEnter (other : Collider) {
+	if(other.name == "Calabaza"||other.name == "Frankenstein"||other.name == "Momia"||other.name == "Vampiro"){
+    Destroy(this.gameObject);
+   	} 
 }

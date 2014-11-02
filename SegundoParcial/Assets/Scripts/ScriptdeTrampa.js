@@ -1,5 +1,5 @@
 ﻿//ScriptdeTrampa.js
-var interval : float=0.5; 
+var interval : float=1; 
 private var nextinterval : float=0.0; 
 
 function OnTriggerEnter (other : Collider) {
